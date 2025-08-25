@@ -6,9 +6,8 @@ It demonstrates basic AI-style logic for information retrieval.
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/faq-bot.git
-   cd faq-bot
-
+   git clone https://github.com/Katlegopython/Faq-Ai-bot
+   
 2. Run the script
    
    python faq_bot.py
